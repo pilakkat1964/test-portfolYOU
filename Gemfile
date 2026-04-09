@@ -15,3 +15,5 @@ gem "jekyll-sitemap", "~> 1.4"
 
 # Optional but often needed
 gem "webrick", "~> 1.7"
+
+gem "github-pages", group: :jekyll_plugins
